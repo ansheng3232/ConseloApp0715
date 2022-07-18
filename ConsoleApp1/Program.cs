@@ -4,3 +4,12 @@ Console.WriteLine("Hello, World!");
 //1234
 //123
 //1470
+Console.WriteLine("Hello, World!");
+//7890
+//1234
+//123
+//1470Console.WriteLine("Hello, World!");
+//7890
+//1234
+//123
+//1470
